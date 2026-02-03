@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>AI-based health technology projects and software systems<br><br>AI, health-tech, and system-level innovation projects<br><br>Advanced machine learning and scalable system design<br><br>Machine learning, computer vision, and software engineering<br><br>AI projects, health technology, and prototyping<br><br>I enjoy turning competition ideas into working prototypes
+I am a high school student in a Science, Mathematics, and Technology program with a strong technical focus on software engineering and applied artificial intelligence. I work on building practical, prototype-level solutions, particularly in AI-driven systems and healthcare-related innovation. My interests lie in developing technology that integrates data, sensors, and system thinking to solve real-world problems.
 
 
 ## 🌐 Socials:
