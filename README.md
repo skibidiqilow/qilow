@@ -8,6 +8,9 @@ I am a high school student in a Science, Mathematics, and Technology program wit
 Consolation Award — CanSat Rocket Thailand 2025 (Qualifying Round)
 Finalist — National Software Contest Thailand (27th)
 
+# 🎯 Goal
+
+To further develop AI-driven and system-level innovations, particularly in healthcare and public-impact domains, through hackathons, research, and global innovation programs.
 
 
 ## 🌐 Socials:
