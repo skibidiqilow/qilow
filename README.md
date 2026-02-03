@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-based health technology projects and software systems<br>👯 I’m looking to collaborate on<br>AI, health-tech, and system-level innovation projects<br>🤝 I’m looking for help with<br>Advanced machine learning and scalable system design<br>🌱 I’m currently learning<br>Machine learning, computer vision, and software engineering<br>💬 Ask me about<br>AI projects, health technology, and prototyping<br>⚡ Fun fact<br>I enjoy turning competition ideas into working prototypes
+<br>AI-based health technology projects and software systems<br><br>AI, health-tech, and system-level innovation projects<br><br>Advanced machine learning and scalable system design<br><br>Machine learning, computer vision, and software engineering<br><br>AI projects, health technology, and prototyping<br><br>I enjoy turning competition ideas into working prototypes
 
 
 ## 🌐 Socials:
