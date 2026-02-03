@@ -1,6 +1,13 @@
 # 💫 About Me:
 I am a high school student in a Science, Mathematics, and Technology program with a strong technical focus on software engineering and applied artificial intelligence. I work on building practical, prototype-level solutions, particularly in AI-driven systems and healthcare-related innovation. My interests lie in developing technology that integrates data, sensors, and system thinking to solve real-world problems.
 
+🥇 Gold Medal — Health Track, i-NewGen Award 2026
+
+Finalist — National Software Contest Thailand (27th)
+
+Consolation Award — CanSat Rocket Thailand 2025 (Qualifying Round)
+
+🥉 Bronze Medal — IMC Mathematics Challenge Competition
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ai_shi__teru) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sudhodbemine) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/skibididopdop56) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashizusror@gmail.com) 
